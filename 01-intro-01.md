@@ -1,15 +1,19 @@
 Задание 1
 
-* bash: ![bash](https://github.com/deadmorouse/study/assets/49486347/184a0213-7649-497a-9022-c86e9a900b53)
 
-* md: ![md](https://github.com/deadmorouse/study/assets/49486347/004acc4a-181c-4199-93a8-8586323da055)
+* bash: ![bash](https://github.com/deadmorouse/study/assets/49486347/64aad472-4761-4050-9fdf-736649ed8534)
 
-* terraform: ![terraform](https://github.com/deadmorouse/study/assets/49486347/816521fb-0022-46c7-b6c6-16e60e806fad)
 
-* yaml: ![yaml](https://github.com/deadmorouse/study/assets/49486347/c79db934-daee-4ab8-8252-fb240d4bc02b)
+* md:  ![md](https://github.com/deadmorouse/study/assets/49486347/415d1f66-29e9-411f-89ba-dfbbc30f78f0)
 
-* jsonnet: ![jsonnet](https://github.com/deadmorouse/study/assets/49486347/c9e61625-772f-403a-9e89-05c4d25287cc)
- продажам
+
+* terraform: ![terraform](https://github.com/deadmorouse/study/assets/49486347/ef3c061f-7495-47e6-a208-1a8e7deb3f4e)
+
+
+* yaml: ![yaml](https://github.com/deadmorouse/study/assets/49486347/616a1d20-bd9c-486c-88a1-f31fbc45afb7)
+
+
+* jsonnet: ![jsonnet](https://github.com/deadmorouse/study/assets/49486347/409b9f1c-04aa-49a5-8474-eba4b7b32be0)
 
 
 
